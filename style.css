@@ -1049,6 +1049,14 @@ textarea {
     flex-direction: column;
   }
 
+  #navbar .container .list-style li {
+    padding-bottom: .5rem;
+  }
+
+  #navbar .container .list-style li a{
+    padding: 0rem;
+  }
+
   #featured-posts .container .post-container {
     grid-template-columns: 1fr;
     height: 100vh;
