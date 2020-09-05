@@ -275,22 +275,6 @@ padding: 1rem 0;
 }
 /* ============= End of Technology Page ===================== */
 
-/* ============= start of Article page ===================== */
-#article .container .article-wrapper {
-  
-  grid-template-columns: 1fr;
-  padding: 0 1rem;
-  
-}
 
-#article .container .article-wrapper .sidebar-content {
-  overflow: hidden;
-}
-
-#article .container .article-wrapper .sidebar-content .latest-news .inner-wrapper .post {
-display: flex;
-justify-content: center;
-}
-/* ============= End of Article page ===================== */
 
 }
